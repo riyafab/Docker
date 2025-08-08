@@ -1,1 +1,2 @@
-.
+echo "Docker-Projects/Docker-files/" >> .gitignore
+
